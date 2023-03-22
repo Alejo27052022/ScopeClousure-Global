@@ -1,0 +1,1 @@
+# ScopeClousure-Global
